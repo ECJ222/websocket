@@ -1,0 +1,11 @@
+/Users/mac/Documents/Personal/Rust/react-rust-tutorial/websocket/target/debug/deps/futures_core-21797c290d0435b3.rmeta: /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/lib.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/future.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/stream.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/mod.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/poll.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/__internal/mod.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/__internal/atomic_waker.rs
+
+/Users/mac/Documents/Personal/Rust/react-rust-tutorial/websocket/target/debug/deps/futures_core-21797c290d0435b3.d: /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/lib.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/future.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/stream.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/mod.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/poll.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/__internal/mod.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/__internal/atomic_waker.rs
+
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/lib.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/future.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/stream.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/mod.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/poll.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/__internal/mod.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.17/src/task/__internal/atomic_waker.rs:

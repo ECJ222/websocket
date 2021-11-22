@@ -1,0 +1,14 @@
+/Users/mac/Documents/Personal/Rust/react-rust-tutorial/websocket/target/debug/deps/base64-127da8236a222302.rmeta: /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/lib.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/chunked_encoder.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/display.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/mod.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/decoder.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/tables.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/mod.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/encoder.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/encode.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/decode.rs
+
+/Users/mac/Documents/Personal/Rust/react-rust-tutorial/websocket/target/debug/deps/base64-127da8236a222302.d: /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/lib.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/chunked_encoder.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/display.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/mod.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/decoder.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/tables.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/mod.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/encoder.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/encode.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/decode.rs
+
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/lib.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/chunked_encoder.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/display.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/mod.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/decoder.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/tables.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/mod.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/encoder.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/encode.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/decode.rs:

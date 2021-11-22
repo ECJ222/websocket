@@ -1,0 +1,11 @@
+/Users/mac/Documents/Personal/Rust/react-rust-tutorial/websocket/target/debug/deps/serde_urlencoded-2d0b93ac2a0e4b46.rmeta: /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/lib.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/de.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/mod.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/key.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/pair.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/part.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/value.rs
+
+/Users/mac/Documents/Personal/Rust/react-rust-tutorial/websocket/target/debug/deps/serde_urlencoded-2d0b93ac2a0e4b46.d: /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/lib.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/de.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/mod.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/key.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/pair.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/part.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/value.rs
+
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/lib.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/de.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/mod.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/key.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/pair.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/part.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/value.rs:
